@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
-  <title id="title">Hesam Jalili — Frontend Developer</title>
-  <desc id="desc">A midnight-blue banner with a quiet connected-node motif, introducing a frontend developer focused on thoughtful interfaces and useful software.</desc>
+  <title id="title">Hi, I'm Hesam — frontend developer</title>
+  <desc id="desc">A midnight-blue hero banner with a connected-node motif, mint and blue accents, and a greeting for Hesam, a frontend developer.</desc>
   <defs>
     <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1220"/>
@@ -8,24 +8,24 @@
       <stop offset="1" stop-color="#14243a"/>
     </linearGradient>
     <radialGradient id="glow" cx="86%" cy="48%" r="48%">
-      <stop offset="0" stop-color="#28465b" stop-opacity=".42"/>
+      <stop offset="0" stop-color="#28465b" stop-opacity=".48"/>
       <stop offset="1" stop-color="#14243a" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
       <path d="M32 0H0V32" fill="none" stroke="#b8c7d9" stroke-opacity=".045" stroke-width="1"/>
     </pattern>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#67d8c1" stop-opacity=".12"/>
-      <stop offset=".55" stop-color="#67d8c1" stop-opacity=".8"/>
-      <stop offset="1" stop-color="#8aa7ff" stop-opacity=".64"/>
+      <stop offset=".55" stop-color="#67d8c1" stop-opacity=".84"/>
+      <stop offset="1" stop-color="#8aa7ff" stop-opacity=".72"/>
     </linearGradient>
   </defs>
   <rect width="1280" height="300" rx="18" fill="url(#base)"/>
   <rect width="1280" height="300" rx="18" fill="url(#glow)"/>
   <rect width="1280" height="300" rx="18" fill="url(#grid)"/>
-  <path d="M742 212h102l53-53h93l47-47h116" fill="none" stroke="url(#line)" stroke-width="2"/>
-  <path d="M805 257h111l49-49h80l54-54h70" fill="none" stroke="#8aa7ff" stroke-opacity=".38" stroke-width="1.5"/>
-  <path d="M868 105h73l34 34h75l41 41h78" fill="none" stroke="#67d8c1" stroke-opacity=".34" stroke-width="1.5"/>
+  <path d="M742 212h102l53-53h93l47-47h116" fill="none" stroke="url(#signal)" stroke-width="2"/>
+  <path d="M805 257h111l49-49h80l54-54h70" fill="none" stroke="#8aa7ff" stroke-opacity=".4" stroke-width="1.5"/>
+  <path d="M868 105h73l34 34h75l41 41h78" fill="none" stroke="#67d8c1" stroke-opacity=".4" stroke-width="1.5"/>
   <g fill="#0f1b2b" stroke="#75d8c5" stroke-width="2">
     <circle cx="742" cy="212" r="5"/><circle cx="844" cy="212" r="5"/>
     <circle cx="897" cy="159" r="6"/><circle cx="990" cy="159" r="5"/>
@@ -40,7 +40,7 @@
     <circle cx="1091" cy="180" r="5"/><circle cx="1169" cy="180" r="4"/>
   </g>
   <path d="M64 63v174" stroke="#67d8c1" stroke-width="3" stroke-linecap="round"/>
-  <text x="92" y="132" fill="#edf3fb" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="48" font-weight="650" letter-spacing="-1.2">Hesam Jalili</text>
-  <text x="95" y="174" fill="#b7c5d8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="20" font-weight="450">Frontend developer · Thoughtful interfaces · Useful software</text>
-  <text x="95" y="220" fill="#71d9c6" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="1.2">DESIGN WITH INTENT  /  BUILD WITH CARE</text>
+  <text x="94" y="126" fill="#edf3fb" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="48" font-weight="650" letter-spacing="-1.2">Hi, I'm <tspan fill="#67d8c1">Hesam</tspan> 👋</text>
+  <text x="97" y="171" fill="#b7c5d8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="20" font-weight="450">Frontend developer · Thoughtful interfaces · Useful products</text>
+  <text x="97" y="218" fill="#71d9c6" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="1.2">DESIGN WITH INTENT  /  BUILD WITH CARE</text>
 </svg>
